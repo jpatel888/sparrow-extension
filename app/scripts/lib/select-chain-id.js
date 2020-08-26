@@ -7,7 +7,7 @@ import {
 } from '../controllers/network/enums'
 
 const standardNetworkId = {
-  '1': MAINNET_CHAIN_ID,
+  '88': MAINNET_CHAIN_ID,
   '3': ROPSTEN_CHAIN_ID,
   '4': RINKEBY_CHAIN_ID,
   '42': KOVAN_CHAIN_ID,
