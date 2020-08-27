@@ -11,7 +11,7 @@ export const RINKEBY_NETWORK_ID = '4'
 export const GOERLI_NETWORK_ID = '5'
 export const KOVAN_NETWORK_ID = '42'
 
-export const MAINNET_CHAIN_ID = '0x58'
+export const MAINNET_CHAIN_ID = '0x8'
 export const ROPSTEN_CHAIN_ID = '0x3'
 export const RINKEBY_CHAIN_ID = '0x4'
 export const GOERLI_CHAIN_ID = '0x5'
